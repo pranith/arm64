@@ -1,0 +1,7 @@
+Interesting Links:
+
+Introduction to ARMv8 64-bit Architecture
+https://quequero.org/2014/04/introduction-to-arm-architecture/
+
+Introduction to A64 Instruction Set - Rodolph Perfetta, ARM
+https://www.linuxplumbersconf.org/2014/ocw/system/presentations/2361/original/02%20-%20a64-isa-intro-final.pdf
