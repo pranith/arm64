@@ -1,5 +1,8 @@
 Interesting Links:
 
+* Fundamentals of ARMv8-A
+  https://developer.arm.com/products/architecture/cpu-architecture/a-profile/docs/100878/latest/fundamentals-of-armv8-a
+ 
 * ARM64 register and Instruction Quick Start
   https://wiki.cdot.senecacollege.ca/wiki/Aarch64_Register_and_Instruction_Quick_Start
 
