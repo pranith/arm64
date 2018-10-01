@@ -1,7 +1,16 @@
 Interesting Links:
 
-Introduction to ARMv8 64-bit Architecture
-https://quequero.org/2014/04/introduction-to-arm-architecture/
+* ARM assembler in Raspberry Pi
+  https://thinkingeek.com/arm-assembler-raspberry-pi/
 
-Introduction to A64 Instruction Set - Rodolph Perfetta, ARM
-https://www.linuxplumbersconf.org/2014/ocw/system/presentations/2361/original/02%20-%20a64-isa-intro-final.pdf
+* Exploring AArch64 assembler
+  https://github.com/matteyeux/aarch64
+ 
+* The A64 instruction set
+  https://static.docs.arm.com/100898/0100/the_a64_Instruction_set_100898_0100.pdf
+
+* Introduction to ARMv8 64-bit Architecture
+  https://quequero.org/2014/04/introduction-to-arm-architecture/
+
+* Introduction to A64 Instruction Set - Rodolph Perfetta, ARM
+  https://www.linuxplumbersconf.org/2014/ocw/system/presentations/2361/original/02%20-%20a64-isa-intro-final.pdf
